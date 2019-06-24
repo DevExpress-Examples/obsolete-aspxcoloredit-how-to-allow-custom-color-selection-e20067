@@ -4,6 +4,9 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 <!-- default file list end -->
 # OBSOLETE - ASPxColorEdit - How to allow custom color selection
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e20067)**
+<!-- run online end -->
 
 
 <p><strong>UPDATED:</strong></p>
